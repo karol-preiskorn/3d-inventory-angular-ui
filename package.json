@@ -85,7 +85,7 @@
     "jquery": "^3.7.1",
     "jsdom": "^24.1.1",
     "lodash": "^4.17.21",
-    "marked": "^12.0.2",
+    "marked": "^13.0.3",
     "mkdirp": "^3.0.1",
     "nav-bar": "^1.0.3",
     "ngx-markdown": "^17.2.1",
